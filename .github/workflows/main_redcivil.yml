@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'redcivil'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_cfff4e3fb3e6463eb3d9ac43d13be7c0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3ba865b336dd4d798dec544d61a769e2 }}
         package: .
